@@ -1,0 +1,10 @@
+body{font-family: Arial, Helvetica, sans-serif; margin:0; padding:20px; background:#f7f7f7}
+.auth-wrap{max-width:900px;margin:30px auto;padding:20px;background:#fff;border-radius:8px;display:flex;gap:20px;align-items:flex-start}
+.card{background:#fff;padding:16px;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,0.1);}
+input,button{padding:8px;margin:6px 0;width:100%}
+.dashboard{display:flex;gap:20px}
+.sidebar{width:260px}
+.content{flex:1}
+.pdf-list{list-style:none;padding:0}
+.pdf-list li{padding:8px;border-bottom:1px solid #eee;display:flex;justify-content:space-between}
+.uploader{margin-bottom:12px}
