@@ -50,4 +50,4 @@ npm start
 ## Author
 
 Tanisha Rathore
-https://github.com/TanishaRathore5334/pdf-annotator-fullstack/edit/main/README.md#L2C16
+(https://github.com/TanishaRathore5334/pdf-annotator-fullstack/edit/main/README.md#L2C16_
