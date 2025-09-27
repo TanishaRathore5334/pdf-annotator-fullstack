@@ -10,14 +10,14 @@ It is built with **React (Frontend)**, **Node.js/Express (Backend)**, and **Mong
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React.js, Axios
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT
+- **Frontend:** React.js, Axios.
+- **Backend:** Node.js, Express.js.
+- **Database:** MongoDB.
+- **Authentication:** JWT.
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup.....
 
 ### 1. Clone the repository
 ```bash
